@@ -1,2 +1,0 @@
-# BarBie
-Colab project 
